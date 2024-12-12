@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rohitkumar2707
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning js
-- 📫 How to reach me on my insta @rohitttt_k
+html css project
+cafe menu
+
 
 <!---
 rohitkumar2707/rohitkumar2707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
